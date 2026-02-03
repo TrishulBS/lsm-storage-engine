@@ -1,4 +1,4 @@
-package org.example;
+package org.lsm;
 
 import java.util.BitSet;
 import java.util.Objects;

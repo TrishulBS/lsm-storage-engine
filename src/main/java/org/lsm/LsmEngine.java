@@ -1,4 +1,4 @@
-package org.example;
+package org.lsm;
 
 import java.io.File;
 import java.io.FileOutputStream;

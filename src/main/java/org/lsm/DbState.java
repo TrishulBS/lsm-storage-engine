@@ -1,4 +1,4 @@
-package org.example;
+package org.lsm;
 
 import java.nio.file.Path;
 import java.util.List;
